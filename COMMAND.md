@@ -8,3 +8,5 @@ Push your code to GitHub `git push -u origin main`
 
 
 Interaction with database `python manage.py shell`
+
+Create a new app `python manage.py startapp app_name`
